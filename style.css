@@ -36,7 +36,15 @@ body{
     border-color: chartreuse;
     border-style: solid;
     display: inline-table;
+<<<<<<< Updated upstream
     width: 70px;
+=======
+<<<<<<< HEAD
+    width: 80px;
+=======
+    width: 70px;
+>>>>>>> d5234bc30c358f90aa797f42a168797c1a5b2b07
+>>>>>>> Stashed changes
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-style: oblique;
     transition: 0.35s;
